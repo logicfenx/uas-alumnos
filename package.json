@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/uas-alumnos",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a uas-alumnos",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/uas-alumnos.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://btcstorm.cloud/es/uas-alumnos/"
+    },
+    "homepage": "https://btcstorm.cloud/es/uas-alumnos/"
+}
